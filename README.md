@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @qryhub / _qry / Vincent
 - 👀 I’m interested in IOT and adding new features to it using few LOC.
 - 🌱 I’m currently learning JavaScript. I already have experience with JS but I decided to learn it in a more serious fashion. (Trying to improve coding-style)
-- 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me: Discord: _qry | vincent#1986
