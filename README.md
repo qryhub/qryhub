@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @qryhub / _qry / Vincent
-- 👀 I’m interested in IOT and adding new features to it using few LOC.
+- 👋 Hi, I’m _qry / Vincent
+- 👀 I’m interested in IOT and Home Automation
 - 🌱 I’m currently learning JavaScript. I already have experience with JS but I decided to learn it in a more serious fashion. (Trying to improve coding-style)
+- 💶 Currently working on "CapitalView" - Manage Cashflows and Budgets
 - 📫 How to reach me: Discord: _qry | vincent#1986
