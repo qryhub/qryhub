@@ -6,4 +6,6 @@
 **Currently working on**
 - 💶 "CapitalView" - Manage Cashflows and Budgets
 - 📅 Team Planning / Roster Software
-- 📫 How to reach me: Discord: _qry | vincent#1986
+
+
+📫 How to reach me: Discord: _qry | vincent#1986
